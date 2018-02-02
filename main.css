@@ -9,6 +9,9 @@ body {
     background-color: black;
 }
 
-.mainHeading {
-    color: red
+.bannerImg {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
